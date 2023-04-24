@@ -48,7 +48,7 @@
         {
             "id": "5",
             "name": "COOPER",
-            "symbolSize": 78.916,
+            "symbolSize": 51.916,
             "x": -417.26337,
             "y": 406.03506,
             "value": 4,
@@ -57,7 +57,7 @@
         {
             "id": "6",
             "name": "MURPH",
-            "symbolSize": 69.417,
+            "symbolSize": 43.417,
             "x": -332.6012,
             "y": 485.16974,
             "value": 4,
@@ -66,7 +66,7 @@
         {
             "id": "7",
             "name": "DONALD",
-            "symbolSize": 54.667,
+            "symbolSize": 37.667,
             "x": -382.69568,
             "y": 475.09113,
             "value": 4,
