@@ -809,31 +809,31 @@
         ],
             "categories": [
                 {
-                    "name": "A"
+                    "name": "0-10"
                 },
                 {
-                    "name": "B"
+                    "name": "10-13"
                 },
                 {
-                    "name": "C"
+                    "name": "13-15"
                 },
                 {
-                    "name": "D"
+                    "name": "15-17"
                 },
                 {
-                    "name": "E"
+                    "name": "17-19"
                 },
                 {
-                    "name": "F"
+                    "name": "19-25"
                 },
                 {
-                    "name": "G"
+                    "name": "25-30"
                 },
                 {
-                    "name": "H"
+                    "name": "30-40"
                 },
                 {
-                    "name": "I"
+                    "name": ">=40"
                 }
             ]
 }
