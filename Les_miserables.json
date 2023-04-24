@@ -3,55 +3,55 @@
         {
             "id": "0",
             "name": "ASSISTANT",
-            "symbolSize": 19.12381,
+            "symbolSize": 4,
             "x": -266.82776,
             "y": 299.6904,
-            "value": 19,
+            "value": 4,
             "category": 5
         },
         {
             "id": "1",
             "name": "ANSEN",
-            "symbolSize": 18.079,
+            "symbolSize": 4,
             "x": -418.08344,
             "y": 446.8853,
-            "value": 18,
+            "value": 4,
             "category": 4
         },
         {
             "id": "2",
             "name": "NSA AGENT",
-            "symbolSize": 17.898,
+            "symbolSize": 2,
             "x": -212.76357,
             "y": 245.29176,
-            "value": 17,
+            "value": 2,
             "category": 4
         },
         {
             "id": "3",
             "name": "GOVERNMENT MAN",
-            "symbolSize": 19.676,
+            "symbolSize": 3,
             "x": -242.82404,
             "y": 235.26283,
-            "value": 19,
+            "value": 3,
             "category": 5
         },
         {
             "id": "4",
             "name": "BALLPLAYER",
-            "symbolSize": 18.978,
+            "symbolSize": 7,
             "x": -379.30386,
             "y": 429.06424,
-            "value": 18,
+            "value": 7,
             "category": 4
         },
         {
             "id": "5",
             "name": "COOPER",
-            "symbolSize": 51.916,
+            "symbolSize": 43,
             "x": -417.26337,
             "y": 406.03506,
-            "value": 51,
+            "value": 43,
             "category": 8
         },
         {
@@ -314,15 +314,6 @@
             "y": 58.7059,
             "value": 6,
             "category": 0
-        },
-        {
-            "id": "35",
-            "name": "DONALD",
-            "symbolSize": 11.809524666666666,
-            "x": -338.2307,
-            "y": 87.48405,
-            "value": 11,
-            "category": 1
         }
     ],
         "links": [
